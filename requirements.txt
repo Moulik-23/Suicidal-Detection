@@ -1,0 +1,8 @@
+transformers
+emoji
+nltk
+pandas
+scikit-learn
+torch
+shap
+streamlit
